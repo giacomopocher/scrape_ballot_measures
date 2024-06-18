@@ -2,9 +2,8 @@
 """
 Title: Scraping and Visualizing Raw Data about American Direct Democracy
 Course: B2022 - Python for Economists
-Instructor: Dr. Anatole Cheysson
 
-Student: Giacomo Opocher
+Author: Giacomo Opocher
 Position: 2nd Year PhD student in Economics
 Institution: University of Bologna
 
